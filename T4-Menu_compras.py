@@ -1,6 +1,7 @@
 cant_productos = []
 productos = []
 total = 0
+print("Este es un cambio ")
 while True:
     print("1).Agregar productos\n2).Ver canasta\n3).Ver total\n4).Salir")
     op1 = int(input("ingrese una opcion: "))
